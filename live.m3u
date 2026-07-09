@@ -101,6 +101,13 @@ http://172.19.17.3:8090/hls/BeinSports1ENG.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-5 FiFa-2026
 https://cdn-tt.pages.dev/ch
 
+#======sports-anik======
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WO5GG7l.jpeg" group-title="sports",Bioscope Plus -2
+https://cannon.tahsinkh1234.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8?nocache=1783104253247
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WO5GG7l.jpeg" group-title="sports",Bioscope Plus -3
+https://cannon.tahsinkh1234.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8?nocache=1783104253247
+
+
 
 #=====music======
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRNmxpc.jpeg" group-title="Music",Sangeet Bangla 📺

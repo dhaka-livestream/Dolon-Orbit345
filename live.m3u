@@ -109,10 +109,11 @@ https://cannon.tahsinkh1234.workers.dev/out/v1/60e7608404004b1186261497b404630b/
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WO5GG7l.jpeg" group-title="sports-anik",Bioscope Plus -4
 https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire363470012216/bioscope2.m3u8?|referer=https://hridoytv.top
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports-anik",Toffee FiFa-2026
-https://cdn-tt.pages.dev/ch1.m3u8
+https://live-tvstream.github.io/Livetv30/Toffe1-anik.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Ic3ulgy.png" group-title="sports-anik",Somoy Tv-FiFa 
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mwAou7A.jpeg" group-title="Sports-anik",Ptv sports 
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
 
 

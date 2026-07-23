@@ -56,16 +56,18 @@ http://172.19.17.3:8090/hls/SonyHD.m3u8
 http://fast.luckonline.eu/live/y49sz6KMQs/6115263489/532.ts
 
 #======India Bangla=====
-#EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/9Alx1l8.jpeg" group-title="India Bangla",Starjalsha HD 📺 
+#EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/9Alx1l8.jpeg" group-title="India Bangla",Starjalsha HD-1 📺 
 http://172.19.17.3:8090/hls/StarJalshaHD.m3u
+#EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/9Alx1l8.jpeg" group-title="India Bangla",Starjalsha HD-2 📺 
+https://live-tvstream.github.io/Livetv-market/Starjalshahd-4.m3u8
 #EXTINF:-1 tvg-id="132" tvg-logo="https://i.imgur.com/dWYZRR3.jpeg" group-title="India Bangla",Zeebangla HD 📺
-http://172.19.17.3:8090/hls/ZeeBanglaHD.m3u
+http://172.19.17.3:8090/hls/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-id="97" tvg-logo="https://i.imgur.com/4N1ZVzG.png" group-title="India Bangla",Colors Bangla HD 📺 
-http://172.19.17.3:8090/hls/ColorsBanglaHD.m3u
+http://172.19.17.3:8090/hls/ColorsBanglaHD.m3u8
 #EXTINF:-1 tvg-id="93" tvg-logo="https://i.imgur.com/tlwUoyF.jpeg" group-title="India Bangla",Jalsha movies HD 📺 
-http://172.19.17.3:8090/hls/JalshaMoviesHD.m3u
+http://172.19.17.3:8090/hls/JalshaMoviesHD.m3u8
 #EXTINF:-1 tvg-id="94" tvg-logo="https://i.imgur.com/G76HIcC.jpeg" group-title="India Bangla",Sony aatt 📺 
-http://172.19.17.3:8090/hls/SonyAtth.m3u
+http://172.19.17.3:8090/hls/SonyAtth.m3u8
 
 #=====news=====
 #EXTINF:-1 tvg-id="102" tvg-logo="https://i.imgur.com/lFsE1yf.png" group-title="News",Alzaazeera news 📺 
@@ -98,22 +100,6 @@ http://172.19.17.3:8090/hls/SonyTen2hd.m3u8
 http://172.19.17.3:8090/hls/SonyTen3hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MCM6ddM.png" group-title="Sports",Beinsports1ENG 📺
 http://172.19.17.3:8090/hls/BeinSports1ENG.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-5 FiFa-2026
-https://cdn-tt.pages.dev/ch
-
-#======sports-anik======
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WO5GG7l.jpeg" group-title="sports-anik",Bioscope Plus -2
-https://cannon.tahsinkh1234.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8?nocache=1783104253247
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WO5GG7l.jpeg" group-title="sports-anik",Bioscope Plus -3
-https://cannon.tahsinkh1234.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8?nocache=1783104253247
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WO5GG7l.jpeg" group-title="sports-anik",Bioscope Plus -4
-https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire363470012216/bioscope2.m3u8?|referer=https://hridoytv.top
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports-anik",Toffee FiFa-2026
-https://live-tvstream.github.io/Livetv30/Toffe1-anik.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Ic3ulgy.png" group-title="sports-anik",Somoy Tv-FiFa 
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mwAou7A.jpeg" group-title="Sports-anik",Ptv sports 
-http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
 
 

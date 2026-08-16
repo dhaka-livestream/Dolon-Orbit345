@@ -57,17 +57,17 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #======India Bangla=====
 #EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/9Alx1l8.jpeg" group-title="India Bangla",Starjalsha HD-1 📺 
-https://bdx-livestream.github.io/Orbit345/starjalshahd-1.m3u8
+https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/Orbit345/starjalshahd-1.m3u8
 #EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/9Alx1l8.jpeg" group-title="India Bangla",Starjalsha HD-2 📺 
-https://bdx-livestream.github.io/Orbit345/Starjalshahd-2.m3u8
+https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/Orbit345/Starjalshahd-2.m3u8
 #EXTINF:-1 tvg-id="132" tvg-logo="https://i.imgur.com/dWYZRR3.jpeg" group-title="India Bangla",Zeebangla HD 📺
-https://bdx-livestream.github.io/Orbit345/Zeebanglahd.m3u8
+https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/Orbit345/Zeebanglahd.m3u8
 #EXTINF:-1 tvg-id="97" tvg-logo="https://i.imgur.com/4N1ZVzG.png" group-title="India Bangla",Colors Bangla HD 📺 
 #http://172.19.17.3:8090/hls/ColorsBanglaHD.m3u8
 #EXTINF:-1 tvg-id="93" tvg-logo="https://i.imgur.com/tlwUoyF.jpeg" group-title="India Bangla",Jalsha movies HD 📺 
-https://bdx-livestream.github.io/Orbit345/Jalshamovieshd.m3u8
+https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/Orbit345/Jalshamovieshd.m3u8
 #EXTINF:-1 tvg-id="94" tvg-logo="https://i.imgur.com/G76HIcC.jpeg" group-title="India Bangla",Sony aatt 📺 
-https://bdx-livestream.github.io/Orbit345/Sonyaath.m3u8
+https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/Orbit345/Sonyaath.m3u8
 
 #=====news=====
 #EXTINF:-1 tvg-id="102" tvg-logo="https://i.imgur.com/lFsE1yf.png" group-title="News",Alzaazeera news 📺 
